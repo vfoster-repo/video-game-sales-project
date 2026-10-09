@@ -153,7 +153,7 @@ python 3.7+
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vfoster-code/video-game-sales-project.git
+git clone https://github.com/vfoster-repo/video-game-sales-project.git
 cd video-game-sales-project
 ```
 
