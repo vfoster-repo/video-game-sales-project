@@ -138,7 +138,7 @@ video-game-sales-project/
 ├── requirements.txt
 ├── index.html
 ├── video-game-sales-analysis.ipynb
-└── datasets/
+└── data/
     └── games.csv
 ```
 
